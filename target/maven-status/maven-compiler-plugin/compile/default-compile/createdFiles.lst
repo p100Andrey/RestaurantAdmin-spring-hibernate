@@ -1,0 +1,12 @@
+myspring\controller\BlydoController.class
+myspring\controller\BookController.class
+myspring\model\Book.class
+myspring\service\BlydoService.class
+myspring\dao\BookDaoImpl.class
+myspring\service\BookService.class
+myspring\dao\BlydoDaoImpl.class
+myspring\service\BlydoServiceImpl.class
+myspring\service\BookServiceImpl.class
+myspring\dao\BlydoDao.class
+myspring\dao\BookDao.class
+myspring\model\Blydo.class
